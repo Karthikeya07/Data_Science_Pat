@@ -1,3 +1,0 @@
-# MLWP
-
-Lab programs
