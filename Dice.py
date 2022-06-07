@@ -9,5 +9,5 @@ while(1):
         print("You Lost")
         break
     else:
-        print("Roll Agains")
+        print("Roll Again")
         pass
